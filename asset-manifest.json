@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/css/main.362ab6a4.css",
+    "main.js": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/js/main.be5c2e41.js",
+    "static/media/107.jpg": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/media/107.805821d23a3f63566f17.jpg",
+    "static/media/106.jpg": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/media/106.af535717a7579eabdac4.jpg",
+    "static/media/108.jpg": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/media/108.225aaef918f59e5de14a.jpg",
+    "static/media/105.jpg": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/media/105.7df33613c80ca49f56d3.jpg",
+    "index.html": "/Darara-Yigezu/Amazon-Clone-Deploy.git/index.html",
+    "main.362ab6a4.css.map": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/css/main.362ab6a4.css.map",
+    "main.be5c2e41.js.map": "/Darara-Yigezu/Amazon-Clone-Deploy.git/static/js/main.be5c2e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362ab6a4.css",
+    "static/js/main.be5c2e41.js"
+  ]
+}
